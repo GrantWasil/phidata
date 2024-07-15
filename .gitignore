@@ -18,6 +18,7 @@
 
 # Ignore .env files
 .env
+.streamlit/secrets.toml
 
 # Ignore .envrc files (used by direnv: https://direnv.net/)
 .envrc
